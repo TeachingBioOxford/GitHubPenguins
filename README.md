@@ -18,26 +18,6 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Years of data collection:** [TODO: What years were data collected? Hint: check the `year` column in the CSV]
 
-## Variables Measured
-
-The dataset includes the following morphological measurements:
-
-| Variable | Range |
-|----------|-------------|
-| `bill_length_mm` | [TODO: Include range] |
-| `bill_depth_mm` | [TODO: Include range] |
-| `flipper_length_mm` | [TODO: Include range] |
-| `body_mass_g` | [TODO: Include range] |
-
-## What the Analysis Does
-
-The R script `run_analysis_SOLUTIONS.R` performs the following steps:
-
-1. **Data cleaning** -- [TODO: What does the cleaning step do to handle missing values? Hint: look at section 3 and 4 of the script]
-2. **Exploratory boxplots** -- [TODO: Which variable is plotted against species in the first boxplot? Hint: look at section 5]
-3. **Cluster analysis** -- [TODO: Which two measurements are used to show how species cluster? Hint: look at section 7]
-4. **Regression analysis** -- [TODO: What relationship does the regression plot examine? Hint: look at section 7]
-
 ## Plots Produced
 
 The analysis generates a multi-panel figure combining four plots:
@@ -46,20 +26,6 @@ The analysis generates a multi-panel figure combining four plots:
 - **Top right:** [TODO: What does this plot show?]
 - **Bottom left:** [TODO: What does this plot show?]
 - **Bottom right:** [TODO: What does this plot show?]
-
-## Project Structure
-
-```
-penguin-analysis/
-├── README.md              ← You are here!
-├── .gitignore             ← [TODO: What does a .gitignore file do?]
-├── data/
-│   └── penguins_raw.csv   ← [TODO: Describe this file in one sentence]
-├── functions/
-│   ├── plotting_functions.R  ← [TODO: Describe what this file contains]
-│   └── saving_functions.R    ← [TODO: Describe what this file contains]
-└── run_analysis_SOLUTIONS.R  ← [TODO: Describe what this file does]
-```
 
 ## How to Run
 
