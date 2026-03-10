@@ -13,7 +13,7 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Research location:** [TODO: Which three islands were the penguins observed on? Hint: check the `island` column in `data/penguins_raw.csv`]
 
-**Sample size:** More than 10.
+**Sample size:** More than 10.More than 20.
 
 **Years of data collection:** [TODO: What years were data collected? Hint: check the `year` column in the CSV]
 
